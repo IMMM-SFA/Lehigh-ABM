@@ -1,5 +1,4 @@
 # Lehigh-ABM
- File description @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
  ABM code for the coupling with RiverWare Writen by Shih-Yu Huang
  The ABM is built based on Bayesian Inference combined with Cost-loss model
  This script needs to be compiled into an excecutable file and called by RiverWare
